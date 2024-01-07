@@ -10,6 +10,7 @@
   - [Predictive Analysis1](https://github.com/SamOla-Portfolio/DataCamp-Git/tree/main/Functions%20for%20Food%20Price%20Forecasts%202)
   - [Predictive Analysis2](https://github.com/SamOla-Portfolio/DataCamp-Git/tree/main/Predict%20Taxi%20Fares%20with%20Random%20Forests)
   - [text analysis using EDA and classification methods](https://github.com/SamOla-Portfolio/text-analysis/tree/main)
+  - [Migration: examining patterns of residential mobility and internal migration in the United States](https://github.com/SamOla-Portfolio/Machine-Learning/tree/main)
 
 <h2>👨‍💻 Social Network Analysis projects:</h2>
 
