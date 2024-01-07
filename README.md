@@ -3,9 +3,15 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Statistics and Data Science: </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Elastic-net-and-Multinomial-Logistic](https://github.com/SamOla-Portfolio/Elastic-net-and-Multinomial-Logistic/tree/master)
+  - [Logistic Regression](https://github.com/SamOla-Portfolio/Logistic-regression/tree/main)
+  - [text analysis using EDA and classification methods](https://github.com/SamOla-Portfolio/text-analysis/tree/main)
 
-- <b>Social Network Analysis: </b>
+- <b> Machine Learning: </b>
+  - [Predictive Analysis1](https://github.com/SamOla-Portfolio/DataCamp-Git/tree/main/Functions%20for%20Food%20Price%20Forecasts%202)
+  - [Predictive Analysis2](https://github.com/SamOla-Portfolio/DataCamp-Git/tree/main/Predict%20Taxi%20Fares%20with%20Random%20Forests)
+
+<h2>👨‍💻 Social Network Analysis:</h2>
   - [Analysing friendship networks of Adolescents ](https://github.com/SamOla-Portfolio/social-network-analysis)
 <h2> 🤳 Connect with me:</h2>
 
@@ -13,17 +19,3 @@
 
 [linkedin]: https://www.linkedin.com/in/samantha-ola-daoud-b321b4187/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
