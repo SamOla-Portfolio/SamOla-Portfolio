@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 Social Network Analysis projects:</h2>
 
-  - [Friendship networks of Adolescents](https://github.com/SamOla-Portfolio/social-network-analysis)
+  - [Analysing Friendship Networks of Adolescents](https://github.com/SamOla-Portfolio/social-network-analysis)
 
 <h2> 🤳 Connect with me:</h2>
 
