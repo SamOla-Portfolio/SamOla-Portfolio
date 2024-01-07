@@ -5,7 +5,8 @@
 - <b>Statistics and Data Science: </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-
+- <b>Social Network Analysis: </b>
+  - [Analysing friendship networks of Adolescents ](https://github.com/SamOla-Portfolio/social-network-analysis)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
