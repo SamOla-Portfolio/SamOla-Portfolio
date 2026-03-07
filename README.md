@@ -1,4 +1,4 @@
-# Hi, I'm Ola (Samantha Daoud) 👋
+# Hi, I'm Ola (Samantha Ola) 👋
 **Data Analyst | Web Analytics Specialist | Computational Social Scientist**
 
 I bridge the gap between complex data sets and actionable business insights. Currently focused on building end-to-end analytics pipelines that track, process, and predict user behavior.
